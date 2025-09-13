@@ -83,7 +83,7 @@ The system follows a modular architecture with the following main components:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/CHATBOT_WITH_RAG.git
+git clone https://github.com/goncaloam132/CHATBOT_WITH_RAG.git
 cd CHATBOT_WITH_RAG
 ```
 
